@@ -1,0 +1,7 @@
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\obj\Debug\Shellzone.csproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\obj\Debug\Shellzone.csprojAssemblyReference.cache
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\bin\Debug\Shellzonez.exe.config
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\bin\Debug\Shellzonez.exe
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\bin\Debug\Shellzonez.pdb
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\obj\Debug\Shellzonez.exe
+C:\Users\Fraser\source\repos\Shellzone\Shellzone\obj\Debug\Shellzonez.pdb
